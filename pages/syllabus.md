@@ -82,19 +82,24 @@ You will have in-class and outside of class coursework and homework in the form 
 
 # Accessiblity Statement
 
-The Office of Disability Resources collaborates directly with students who identify with disabilities to create accommodation plans, including testing accommodations, in order for students to access course content and validly demonstrate learning. For students who may require accommodations, please contact the Office of Disability Resources as soon as possible: 914-251-6035, ODR@purchase.edu (Student Services Building, #316A), [www.purchase.edu/odr](http://www.purchase.edu/odr)
-
-It is my goal that this class be an accessible and welcoming experience for all students, including those with disabilities. You are welcome to talk to me at any point in the semester about course design concerns, but it is best if we can talk as soon as possible about the need for any adjustments.
+It is my goal that this class be an accessible and welcoming experience for all students, including those with disabilities. You are welcome to talk to me at any point in the semester about course design concerns, but it is always best if we can talk as soon as possible about the need for any modifications. The Office of Disability Resources collaborates directly with students who identify documented disabilities to create accommodation plans, including testing accommodations, in order for students to access course content and validly demonstrate learning. For those students who may require accommodations, please call or email the Office of Disability Resources, (914) 251-6035, odr@purchase.edu.
 
 # Tentative Nature of syllabus
 
 If needed, this syllabus and the course outline may be revised to better suit the class. Students are responbile for keeping up with any changes distributed via email or in class. The most up to date syllabus will always be linked from Moodle.
 
 # Classroom Community
+ 
+##  COMMUNITY HEALTH DURING COVID-19: 
+ To ensure that each of us has a healthy and safe learning experience, all students are required to remain informed and follow Purchase College Policy and/or any departmental, local, state, or federal laws, rules, or regulations for attending classes on campus and in a remote learning environment.
+
+Within courses that involve in-person contact, all students, faculty members, staff, and visitors are required to adhere to the expectations outlined on the College’s COVID-19 website. Failure to comply with requirements (e.g. wearing masks, maintaining social distancing where applicable) will result in the request to leave the classroom for that in-person class session. Students may also be referred to the Office of Community Standards.
+
+Do not enter campus buildings if you test positive for or are experiencing any symptoms of COVID-19. Contact your faculty and Health Services if you need to miss class because of COVID-19 symptoms or a positive COVID-19 test result. The conservatory/school will address on a case by case basis student absences due to COVID-19, while awaiting test results, or during quarantine. 
 
 ## Attendance
 
-Don't miss class our Zoom class on Mondays! We only have one of these a week!
+Please don't miss our Monday class. We only have one of these a week!
 
 Learning programming is a cumulative effort. More than most other courses each of our classes will build on what you have learned in previous classes. Missing class sets you back in this process. It is important that you attend every class.
 
@@ -140,11 +145,11 @@ Free exchange of ideas and critique is encouraged and expected but I will not to
 
 ### Grades
 
-- 25% - Homework assignments / problem sets
-- 15% - Midterm Exam and Project
-- 15% - Weekly check-in quizzes (EASY)
-- 25% - Final Exam and Project
-- 20% - Participation, Attendance and Preparedness
+* 25% - Homework assignments / problem sets  
+* 15% - Midterm Exam and Project
+* 15% - Weekly check-in quizzes (EASY)
+* 25% - Final Exam and Project
+* 20% - Participation, Attendance and Preparedness
 
 ### Participation
 

@@ -10,6 +10,7 @@ Fall 2022
 ## Class Details
 
 Class: Mondays 2:30pm - 6:10pm  
+Location: CMFT 3031 and Zoom  
 Final Session: Monday Dec 12, 12 Noon - 2:30pm (online)  
 
 Zoom: As this is a public website, please use the link from our Moodle page  

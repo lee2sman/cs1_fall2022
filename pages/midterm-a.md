@@ -133,6 +133,8 @@ for (int i = 0; i < majors.length; i++){
 
 The above starter code prints the list of majors they are considering. Now add lines of code to select a major and a minor for them at random from their list and print it to the console. (Note: this is probably not a recommended way to pick what you study.)
 
+For EXTRA CREDIT: Now add additional code so that the program does not select the same major twice. We don’t want to see ‘Major: Linguistics. Minor: Linguistics’ for example.
+
 18 
 You've been hired to create a demo of a special clock, a new product for those with a minimalist lifestyle. It's a sleep timer clock and it has no settings. When you're ready to go to sleep you simply hit play and in 7 hours the alarm goes off. Using millis(), create a timer that will print out "alarm" in 7 hours.
 

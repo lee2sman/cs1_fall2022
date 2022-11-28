@@ -113,4 +113,4 @@ Nov 28
 
 ### Week 15 | Final Project
 
-### Final Exam - Mon, December 9, 12:00-2:30PM (online) 
+### Final Exam - Mon, December 12, 12:00-2:30PM (online) 

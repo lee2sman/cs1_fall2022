@@ -50,4 +50,4 @@ Create a program with a class Mover. The Mover class should have x, y, xspeed an
 
 D>  
 EXTRA CREDIT CODE PROBLEM:  
-Start by making a duplicate of the previous solution. But now make an array of 20 movers. They will act slightly different and be called walkers. Each time draw runs each walker can only move one step: which we define as moving either -1, 0, or 1 pixels along the x and the y axes. Assign each of the walkers a different color. Have the walkers draw for 60 seconds, then the program should automatically stop using noLoop(), and save an image of their drawing at that moment (saveImage() )
+Start by making a duplicate of the previous solution. But now make an array of 20 movers. They will act slightly different and be called walkers. Each time draw runs each walker can only move one step: which we define as moving either -1, 0, or 1 pixels along the x and the y axes. Assign each of the walkers a different color. Have the walkers draw for 60 seconds, then the program should automatically stop using noLoop(), and save an image of their drawing at that moment using save() .

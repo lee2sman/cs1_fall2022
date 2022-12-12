@@ -8,7 +8,7 @@ What are Classes and Objects used for?
 
 Why might we use the built-in keyPressed boolean variable instead of using the built-in keyPressed function? 
 
-What are && and || used for?
+What are ```&&``` and ```||``` used for?
 
 What is a finite state machine used for?
 
